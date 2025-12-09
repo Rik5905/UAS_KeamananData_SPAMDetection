@@ -107,7 +107,7 @@ Domain berisiko tinggi → *candidate blocklist*
 
 ### 2️⃣ Kloning Repositori
 ```bash
-git clone https://github.com/yourusername/UAS_KeamananData_SPAMDetection.git
+git clone https://github.com/Rik5905/UAS_KeamananData_SPAMDetection.git
 cd UAS_KeamananData_SPAMDetection
 ```
 
