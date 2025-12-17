@@ -30,6 +30,7 @@ Proyek ini menggunakan data asli dunia kerja (Enron Email Dataset) untuk membang
 ---
 
 ## 📂 Struktur Direktori
+```bash
 📦 UAS_KeamananData_SPAMDetection/
 │
 ├── 📁 data/
@@ -42,7 +43,7 @@ Proyek ini menggunakan data asli dunia kerja (Enron Email Dataset) untuk membang
 ├── 🌐 app_streamlit.py # Aplikasi UI Streamlit
 ├── 📓 notebook.ipynb # Notebook analisis & pelatihan model
 └── 📄 README.md # Dokumentasi proyek
-
+```
 ---
 
 ## ✨ Fitur Utama Aplikasi Web
